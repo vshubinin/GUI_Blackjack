@@ -432,7 +432,7 @@ public class guiBlackjack {
 			}
 		});
 
-		JLabel lblNewLabel_6 = new JLabel("edu.step.blackjeck.2015");
+		JLabel lblNewLabel_6 = new JLabel();
 		GridBagConstraints gbc_lblNewLabel_6 = new GridBagConstraints();
 		gbc_lblNewLabel_6.insets = new Insets(0, 0, 5, 0);
 		gbc_lblNewLabel_6.gridx = 0;
