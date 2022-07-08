@@ -1,2 +1,4 @@
 # GUI_Blackjack
-Game Blackjack..._.._
+Game Blackjack
+...
+
