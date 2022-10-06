@@ -3,6 +3,5 @@ Game Blackjack
 ...
 .
 ..
-.
 
 .
