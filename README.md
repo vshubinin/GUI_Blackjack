@@ -1,8 +1,2 @@
 # GUI_Blackjack
-Game Blackjack
-...
-.
-..
-.
-.
-.
+Game Blackjack...
